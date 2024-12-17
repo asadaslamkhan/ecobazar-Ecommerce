@@ -6,6 +6,9 @@ import TopProducts from "./components/TopProducts/TopProducts"
 import AOS from "aos";
 import "aos/dist/aos.css"
 import Banner from "./components/Banner/Banner";
+import Subscribe from "./components/Subscribe/Subscribe";
+import Testimonials from "./components/Testimonial/Testimonial";
+import Footer from "./components/Footer/Footer";
 
 
 
@@ -29,6 +32,9 @@ function App() {
       <Products/>
       <TopProducts/>
       <Banner/>
+      <Subscribe/>
+      <Testimonials/>
+      <Footer/>
     </div>
   )
 }
