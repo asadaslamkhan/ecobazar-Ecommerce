@@ -60,7 +60,7 @@ const Navbar = ({handleOrderPopup}) => {
                 <div className="container flex justify-between items-center">
                     <div>
                         <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2">
-                            <img src={Logo} alt="Logo" className="w-10 uppercase" />Ecobsssazarr
+                            <img src={Logo} alt="Logo" className="w-10 uppercase" />EcoBazar
                         </a>
                     </div>
                     {/* search bar */}

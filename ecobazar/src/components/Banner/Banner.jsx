@@ -20,7 +20,7 @@ const Banner = () => {
             <h1 data-aos="fade-up" className="text-3xl sm:text-4xl font-bold">Winter Sale upto 50% off</h1>
             <p data-aos="fade-up" className="text-sm text-gray-500 tracking-wide leading-5">
               🎉 Our biggest sale of the season is here!
-              Enjoy 50% OFF on all products. Whether you're shopping for yourself or gifting someone special, now's the perfect time to save big!
+              Enjoy 50% OFF on all Products. Whether you're shopping for yourself or gifting someone special, now's the perfect time to save big!
             </p>
             <div className="flex flex-col gap-4">
               <div data-aos="fade-up" className="flex items-center gap-4">
